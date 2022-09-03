@@ -14,3 +14,7 @@ This command stores secrets in keychain. You can also do this via the `Keychain 
 
 This command retrieves the password. It prints it to the command line with a training newline, which the `tr` command strips off.
 There is no option to display only the account string (i.e. USER_NAME). 
+
+To get USER_NAME, dump all the properties, and use sed to extract it
+
+`security find-generic-password -gs "SECRET_NAME" 2>&1 | grep acct | sed 's:^ *"acct\"<blob>="\(.*\)"$:\1:' | tr -d '\n'`
