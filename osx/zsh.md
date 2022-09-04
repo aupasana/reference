@@ -15,3 +15,12 @@ function zsh-history() {
     history 0
 }
 ```
+
+## Other helpful functions
+
+```zsh
+function jq-less() {
+    # Run the input json through jq, preserving color and without wrapping
+    jq . --color-output | less -RS
+}
+```
