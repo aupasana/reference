@@ -53,7 +53,30 @@ From the command palette, select `Preferences: Open User Settings (JSON)` and in
     "markdown.styles": [
         "https://use.fontawesome.com/releases/v6.1.2/css/all.css"
     ]
+```
 
+## Snippets
+
+From the command palette, select `Snippets: Configure User Snippets` --> `markdown.json`
+
+```json
+	"Meeting Notes": {
+		"prefix": "Meeting Notes",
+		"body" : [
+			"## Meeting - $CURRENT_DAY_NAME_SHORT $CURRENT_MONTH_NAME_SHORT $CURRENT_DATE @ $CURRENT_HOUR:$CURRENT_MINUTE ",
+			"",
+			"$1",
+			"",
+			"### Notes",
+			" - ",
+			"",
+			"### Action Items",
+			" - [ ]",
+			"",
+			"-----",
+			""
+		]
+	}
 ```
 
 ## ZSH
