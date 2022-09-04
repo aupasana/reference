@@ -44,7 +44,19 @@
 - Description: This unofficial extension integrates Draw.io into VS Code.
 - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 
-## Other
+## Preferences
+
+From the command palette, select `Preferences: Open User Settings (JSON)` and insert this snippet
+
+```json
+    "pasteImage.showFilePathConfirmInputBox": true,
+    "markdown.styles": [
+        "https://use.fontawesome.com/releases/v6.1.2/css/all.css"
+    ]
+
+```
+
+## ZSH
 
 A zsh function to open a workspace, and navigate to a file in the workspace
 
