@@ -17,6 +17,10 @@
 
 - cmd-shift-a : show all open tabs (in all windows)
 - cmd-shift-m : show profiles (use arrows to switch)
+- cmd-l : jump to address bar
+- opt-cmd-f : search the web
+
+See this [support doc](https://support.google.com/chrome/answer/157179) for more shortcuts
 
 ### VS Code
 
