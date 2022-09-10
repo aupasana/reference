@@ -20,3 +20,9 @@
 - An elegant puzzle, by Will Larson
 - Work rules!, by Laszlo Bock
 - The Amazon way, by John Rossman
+
+# Youtube
+
+- [Team Plato](https://www.youtube.com/channel/UCregUqyFV0bUb7unzWInNcA) - The mentorship platform for engineering leaders
+- [Y Combinator](https://www.youtube.com/c/ycombinator)
+- [LeadDev](https://www.youtube.com/c/LeadDev) - Building better technical leaders
