@@ -4,7 +4,7 @@
 
 - Cracking the coding interview, by Gayle McDowell
 - Systems design interview, by Alex Xu
-- Software engineering at google
+- Software engineering at Google by Titus Winters et al
 
 #### For senior engineers
 
@@ -19,4 +19,4 @@
 - The making of a manager, by Julie Zhuo
 - An elegant puzzle, by Will Larson
 - Work rules!, by Laszlo Bock
-- The amazon way, by John Rossman
+- The Amazon way, by John Rossman
