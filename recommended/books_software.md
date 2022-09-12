@@ -25,4 +25,4 @@
 
 - [Team Plato](https://www.youtube.com/channel/UCregUqyFV0bUb7unzWInNcA) - The mentorship platform for engineering leaders
 - [Y Combinator](https://www.youtube.com/c/ycombinator)
-- [LeadDev](https://www.youtube.com/c/LeadDev) - Building better technical leaders
+- [LeadDev Bookmarked](https://www.youtube.com/playlist?list=PLBzScQzZ83I9lAbrBEmVUPMkwv4qVR0zY) - Building better technical leaders - Book series
