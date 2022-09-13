@@ -20,5 +20,12 @@ function epub2() {
         ebook-convert $1 $base.$i
     done
 }
+```
 
+Format a file, wrapping lines at 80 characters, breaking on spaces
+
+```zsh
+function txt-fold {
+    fold -w 80 -s $1
+}
 ```
