@@ -1,0 +1,57 @@
+{
+	"1 on 1": {
+		"prefix": "1 on 1 Notes",
+		"body" : [
+			"## One on One - $CURRENT_DAY_NAME_SHORT $CURRENT_MONTH_NAME_SHORT $CURRENT_DATE @ $CURRENT_HOUR:$CURRENT_MINUTE ",
+			"",
+			"### Listen",
+			" - $1",
+			"",
+			"### Feedback",
+			" - ",
+			"",
+			"### Action Items",
+			" - [ ]",
+			"",
+			"-----",
+			""
+		],
+		"description": "1 on 1 Notes"
+	},
+	"1 on 1 questions": {
+		"body": [
+			"## Questions",
+			"- How are things going?",
+			"- What’s something you’re really jazzed about outside of work?",
+			"- What have you been working on this week?",
+			"- What has been the work highlight/lowlight from the past week?",
+			"- What are you working on next week?",
+			"- Where do you need help?",
+			"- Are you happy with our level of communication? How would you change it?",
+			"- What’s top of mind right now that we haven’t talked about yet?"
+		],
+		"description": "1 on 1 questions"
+	},
+	"Feedback": {
+		"body": [
+			"## Feedback - $CURRENT_DAY_NAME_SHORT $CURRENT_MONTH_NAME_SHORT $CURRENT_DATE @ $CURRENT_HOUR:$CURRENT_MINUTE ",
+			"",
+			"- Context: $1",
+			"- Feedback: $2",
+			"",
+			"----",
+			""
+		],
+		"description": "Feedback to convey"
+	},
+	"Mermaid - flowchart": {
+		"body": [
+			"```mermaid",
+			"flowchart TD",
+			"",
+			"A --> B",
+			"```"
+		],
+		"description": "Mermaid - flowchart"
+	}
+}
