@@ -11,5 +11,5 @@ Config to backup:
   - config for various tools in `~/.config`
     - code -- `~/.config/vscode/*.code-workspace` 
     - nvim -- `~/.config/nvim/init.vim`
-    - zsh -- `~/.config/zsh/*.zsh`
+    - zsh -- `~/.config/zsh/*.zsh` and `~/.config/zsh/.zshrc`
   - scripts -- `~/src/scripts`
