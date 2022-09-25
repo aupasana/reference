@@ -38,3 +38,4 @@ See this [support doc](https://support.google.com/chrome/answer/157179) for more
 - :r! date : insert date:w
 - :new tmp : open tmp file in directory temp\temp-ymd
 - :noh : stop highlighting previous expression
+- :%y : yank all lines (copy file) to clipboard
