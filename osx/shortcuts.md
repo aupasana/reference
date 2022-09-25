@@ -29,3 +29,12 @@ See this [support doc](https://support.google.com/chrome/answer/157179) for more
 - cmd-k,z : zen mode (focus mode)
 - cmd-shift-v : toggle preview
 
+### NVIM (as configured)
+
+- [[ ]] [] ][ : Navigate to next heading
+- e! : edit (reload) discarding changes
+- \ff : find file
+- \fg : live grep
+- :r! date : insert date:w
+- :new tmp : open tmp file in directory temp\temp-ymd
+- :noh : stop highlighting previous expression
