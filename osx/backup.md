@@ -13,3 +13,11 @@ Config to backup:
     - nvim -- `~/.config/nvim/init.vim`
     - zsh -- `~/.config/zsh/*.zsh` and `~/.config/zsh/.zshrc`
   - scripts -- `~/src/scripts`
+  - startup serivces -- `ls` in each of the following
+    - `/System/Library/LaunchDaemons`, `/Library/LaunchDaemons`, `~/Library/LaunchDaemons`
+    - `/System/Library/LaunchAgents`, `/Library/LaunchAgents`, `~/Library/LaunchAgents`
+
+UX Config to backup:
+
+  - chrome settings (search engines)
+  - alfred preferences (search engines)
