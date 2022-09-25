@@ -13,7 +13,7 @@ Config to backup:
     - nvim -- `~/.config/nvim/init.vim`
     - zsh -- `~/.config/zsh/*.zsh` and `~/.config/zsh/.zshrc`
   - scripts -- `~/src/scripts`
-  - startup serivces -- `ls` in each of the following
+  - startup serivces -- `ls` in each of the following. Note (`grep -v com.apple` removes the noise)
     - `/System/Library/LaunchDaemons`, `/Library/LaunchDaemons`, `~/Library/LaunchDaemons`
     - `/System/Library/LaunchAgents`, `/Library/LaunchAgents`, `~/Library/LaunchAgents`
 
