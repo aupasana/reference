@@ -12,3 +12,5 @@ hs.hotkey.bind({"alt"}, "space", function()
   end
 end)
 ```
+
+Source: https://github.com/alacritty/alacritty/issues/862
