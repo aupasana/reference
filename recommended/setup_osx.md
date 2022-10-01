@@ -3,7 +3,8 @@
 ### General
 
 * Window Management -- Rectangle, AltTab and Hammerspoon (OR Raycast)
-* Spotlight -- Replace with Raycast
+* Spotlight -- Replace with Raycast (brew)
+* Menu bar -- Manage with dozer (brew)
 
 ### Dev
 
@@ -14,3 +15,4 @@
 
 * Browser -- Firefox with containers 
 * Passwords -- 1Password, LastPass or BitWarden
+
